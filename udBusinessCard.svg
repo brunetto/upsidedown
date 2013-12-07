@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="168.412"
+     inkscape:cx="178.00845"
      inkscape:cy="31.549298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-4"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -345,6 +345,36 @@
            id="tspan4592-0"
            x="828.44434"
            y="747.15265">Melbourne</tspan></text>
+      <path
+         sodipodi:type="arc"
+         style="fill:#ca0012;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3042"
+         sodipodi:cx="-97.479721"
+         sodipodi:cy="101.98982"
+         sodipodi:rx="26.769043"
+         sodipodi:ry="26.769043"
+         d="m -70.710678,101.98982 a 26.769043,26.769043 0 1 1 -53.538082,0 26.769043,26.769043 0 1 1 53.538082,0 z"
+         transform="matrix(1.1496095,0,0,1.1496095,989.19718,340.69745)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ca0012;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3042-6"
+         sodipodi:cx="-97.479721"
+         sodipodi:cy="101.98982"
+         sodipodi:rx="26.769043"
+         sodipodi:ry="26.769043"
+         d="m -70.710678,101.98982 a 26.769043,26.769043 0 1 1 -53.538082,0 26.769043,26.769043 0 1 1 53.538082,0 z"
+         transform="matrix(1.1496095,0,0,1.1496095,962.04372,465.60345)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ca0012;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3042-66"
+         sodipodi:cx="-97.479721"
+         sodipodi:cy="101.98982"
+         sodipodi:rx="26.769043"
+         sodipodi:ry="26.769043"
+         d="m -70.710678,101.98982 a 26.769043,26.769043 0 1 1 -53.538082,0 26.769043,26.769043 0 1 1 53.538082,0 z"
+         transform="matrix(1.1496095,0,0,1.1496095,871.53212,559.88105)" />
     </g>
   </g>
 </svg>
